@@ -1,0 +1,10 @@
+*.csv
+*.xlsx
+data/raw/*
+data/transformed/*
+.env
+credentials.json
+__pycache__/
+*.pyc
+.vscode/
+.idea/
