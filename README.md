@@ -200,6 +200,12 @@ Feel free to reach out:
 - 🐙 GitHub: github.com/rodrigovillalba132
 
 ---
+## 📁 Project Documents
+- [Download Executive Report (PDF)](Medicare_GLP1_Dashboard_Report.pdf)
+- [Download Full Data Analysis (Excel)](Medicare_GLP1_Project_Final.xlsx)
+
+---
+
 
 **Project Status:** Complete Analysis  
 **Last Updated:** January 2025
