@@ -1,4 +1,4 @@
-![Dashboard Cover](GitHub_imageproj.png)
+![Dashboard Cover](GitHub_imageProj.png)
 
 ---
 # Medicare GLP-1 Spending Analysis
