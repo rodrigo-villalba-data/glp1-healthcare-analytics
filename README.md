@@ -121,26 +121,26 @@ This project uses:
 ## Files in This Repository
 
 ```
-├── README.md                           # This file
-├── data/
-│   ├── raw_data_notes.txt             # Data source documentation
-│   └── sample_queries.sql             # Key SQL queries used
+├── analysis/
+│   ├── findings.md             # Key findings and detailed analysis
+│   └── queries.sql             # SQL queries used in the project
+├── assets/
+│   └── GitHub_imageProj.png    # Project screenshots and visual assets
 ├── dashboards/
-│   └── GLP1_Spending_Analysis.xlsx    # Visualization in Google Sheets/Excel
-└── analysis/
-    ├── state_spending_analysis.sql    # YoY growth by state
-    ├── obesity_correlation.sql        # Correlation with CDC data
-    └── insights.md                    # Detailed findings
+│   ├── Medicare_GLP1_Project - final.pdf
+│   └── Medicare_GLP1_Project_final.pbix
+├── .gitignore
+├── LICENSE                     # MIT License
+└── README.md                   # Project documentation
 ```
 
 ---
 
 ## How to Use This Project
 
-1. **Review the SQL queries** in `data/sample_queries.sql`
-2. **Examine the analysis** in `analysis/` folder
-3. **Check the dashboard** for visual findings
-4. **Read the detailed findings** in `analysis/insights.md`
+1. **Review the SQL queries** in `analysis/queries.sql`
+2. **Check the dashboard** for visual findings
+3. **Read the detailed findings** in `analysis/findings.md`
 
 If you have access to similar datasets, you can adapt these queries for your own analysis.
 
@@ -149,9 +149,9 @@ If you have access to similar datasets, you can adapt these queries for your own
 ## Technical Details
 
 **Tools Used:**
-- PostgreSQL (or any SQL database)
+- PostgreSQL 
 - Google Sheets / Excel for basic visualization
-- Power BI or Looker Studio (optional for interactive dashboard)
+- Power BI
 
 **Analysis Approach:**
 - Descriptive analytics (what happened? how much? which states?)
@@ -198,8 +198,9 @@ Interested in discussing this analysis or healthcare data questions? I'm open to
 ## Questions?
 
 Feel free to reach out:
-- 📧 Email: rodrigovillalba132@email.com
-- 💼 LinkedIn: linkedin.com/in/rodrigovillalba
+
+- 📧 Email: rodrigovillalba132@gmail.com
+  
 - 🐙 GitHub: github.com/rodrigovillalba132
 
 ---
@@ -208,7 +209,10 @@ Feel free to reach out:
 - [Download Full Data Analysis (Excel)](dashboard/Medicare_GLP1_Project_final.xlsx)
 
 ---
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 
-**Project Status:** Complete Analysis  
-**Last Updated:** January 2025
+**Project Status:** Completed 
+**Last Updated:** August 2026
