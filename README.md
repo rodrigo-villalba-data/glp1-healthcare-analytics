@@ -201,8 +201,8 @@ Feel free to reach out:
 
 ---
 ## 📁 Project Documents
-- [Download Executive Report (PDF)](Medicare_GLP1_Dashboard_Report.pdf)
-- [Download Full Data Analysis (Excel)](Medicare_GLP1_Project_Final.xlsx)
+- [Download Executive Report (PDF)](dashboard/Medicare_GLP1_Project_final.pdf)
+- [Download Full Data Analysis (Excel)](dashboard/Medicare_GLP1_Project_final.xlsx)
 
 ---
 
