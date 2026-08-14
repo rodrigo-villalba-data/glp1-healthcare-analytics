@@ -1,3 +1,6 @@
+![Dashboard Cover](GitHub_imageproj.png)
+
+---
 # Medicare GLP-1 Spending Analysis
 ## Healthcare Data Analysis & SQL Project
 
