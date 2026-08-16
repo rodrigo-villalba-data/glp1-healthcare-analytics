@@ -185,7 +185,7 @@ This project demonstrates:
 📊 **Data Analyst** interested in healthcare analytics and economics  
 💼 Open to opportunities in US-based companies  
 📍 Currently based in Brazil, available for remote roles  
-🔗 [LinkedIn](https://linkedin.com/in/rodrigovillalba) | [GitHub](https://github.com/rodrigovillalba132)
+🔗 [LinkedIn]([https://www.linkedin.com/in/rodrigo-villalba-b2a18142a) 
 
 Interested in discussing this analysis or healthcare data questions? I'm open to conversations about:
 - Data analyst roles in healthcare/healthtech
@@ -199,9 +199,9 @@ Interested in discussing this analysis or healthcare data questions? I'm open to
 
 Feel free to reach out:
 
-- 📧 Email: rodrigovillalba132@gmail.com
+- 📧 Email: rodrigo.villalba.data@gmail.com
   
-- 🐙 GitHub: github.com/rodrigovillalba132
+- 🐙 GitHub: github.com/rodrigo-villalba-data
 
 ---
 ## 📁 Project Documents
