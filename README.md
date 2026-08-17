@@ -1,4 +1,5 @@
-![Dashboard Cover](/assets/GitHub_imageProj.png)
+![Dashboard Cover](https://raw.githubusercontent.com/Rodrigo-Villalba-Data/glp1-healthcare-analytics/main/assets/GitHub_imageProj.png)
+
 
 ---
 # Medicare GLP-1 Spending Analysis
